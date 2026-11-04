@@ -9,3 +9,5 @@ Publique os quatro arquivos web (index.html, manifest.webmanifest, icon.svg e sw
 
 DADOS
 Os registros ficam no armazenamento local do navegador/PWA, sem login ou sincronização. Em Dados > Exportar JSON, faça backups frequentes em Arquivos/iCloud Drive. CSV é para planilhas, não restauração. Limpar dados do Safari, remover app ou trocar de aparelho pode apagar histórico. Backup contém informações pessoais.
+
+VERSÃO 2: página Meta para peso desejado, data e saldo energético. Informe kcal nas refeições. Os valores são estimativas, não medidas exatas. Backup JSON inclui meta; restauração aceita backups da v1 e v2.
