@@ -1,0 +1,11 @@
+MEU EQUILÍBRIO — V1
+
+TESTE NO COMPUTADOR
+Extraia o ZIP. Na pasta execute: python3 -m http.server 8000
+Abra http://localhost:8000
+
+IPHONE SEM COMPUTADOR LIGADO
+Publique os quatro arquivos web (index.html, manifest.webmanifest, icon.svg e sw.js) em hospedagem estática HTTPS, como GitHub Pages ou Netlify. Abra o endereço no Safari, toque Compartilhar > Adicionar à Tela de Início. Após a primeira visita, o aplicativo poderá abrir offline.
+
+DADOS
+Os registros ficam no armazenamento local do navegador/PWA, sem login ou sincronização. Em Dados > Exportar JSON, faça backups frequentes em Arquivos/iCloud Drive. CSV é para planilhas, não restauração. Limpar dados do Safari, remover app ou trocar de aparelho pode apagar histórico. Backup contém informações pessoais.

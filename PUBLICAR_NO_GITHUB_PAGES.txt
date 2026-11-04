@@ -1,0 +1,12 @@
+MEU EQUILÍBRIO v1.0 — GITHUB PAGES
+
+1. Crie um repositório no GitHub, por exemplo meu-equilibrio.
+2. Faça upload dos arquivos index.html, sw.js, icon.svg e manifest.webmanifest NA RAIZ do repositório (não dentro de uma pasta).
+3. Abra Settings > Pages. Em Build and deployment, selecione Deploy from a branch.
+4. Selecione branch main e pasta /(root), depois Save.
+5. Aguarde a publicação e abra o endereço exibido em Settings > Pages no Safari do iPhone.
+6. No Safari: Compartilhar > Adicionar à Tela de Início.
+
+IMPORTANTE: GitHub Pages hospeda somente o aplicativo. Seus registros ficam no armazenamento LOCAL do navegador/PWA no iPhone; NÃO são sincronizados no GitHub. Exporte o backup JSON frequentemente em Dados e salve-o em local protegido. Se limpar os dados do navegador ou trocar de aparelho, poderá perder os registros.
+
+Como são dados pessoais de alimentação e bem-estar, não publique backups JSON ou CSV no repositório. O repositório pode ser público; o código não contém seus registros.
